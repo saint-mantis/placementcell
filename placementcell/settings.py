@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-6_5q_((@&9n&qy0eu4_k1%(589(*kry352+(o!94ksf#ba_f*7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["placementcell-fqhg.onrender.com"]
 
 
 # Application definition
